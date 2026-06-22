@@ -1,5 +1,7 @@
 # IIoT y Cadena de Suministro Inteligente — Industria 4.0
 
+Por *Iñigo Esteban Garcia*
+
 ---
 
 ## 1. Introducción
